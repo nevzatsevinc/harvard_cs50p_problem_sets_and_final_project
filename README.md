@@ -10,7 +10,7 @@ Learn how to read and write code as well as how to test and “debug” it. Desi
 - [Problem Set 1](./problem_set_1) - Conditionals
 - [Problem Set 2](./problem_set_2) - Loops
 - [Problem Set 3](./problem_set_3) - Exceptions
-- Problem Set 4 - Libraries
+- [Problem Set 4](./problem_set_4) - Libraries
 - Problem Set 5 - Unit Tests
 - Problem Set 6 - File I/O
 - Problem Set 7 - Regular Expressions
