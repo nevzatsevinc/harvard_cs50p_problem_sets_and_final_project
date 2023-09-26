@@ -12,3 +12,4 @@ energy = mass * c ** 2
 
 # Print the energy
 print(energy)
+

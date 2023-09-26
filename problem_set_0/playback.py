@@ -11,3 +11,4 @@ slow_user_input = user_input.replace(" ", "...")
 
 # Print the replaced input
 print(slow_user_input)
+

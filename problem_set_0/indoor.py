@@ -11,3 +11,4 @@ lowercase_input = user_input.lower()
     
 # Print the lowercase input
 print(lowercase_input)
+
