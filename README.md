@@ -13,7 +13,7 @@ Learn how to read and write code as well as how to test and “debug” it. Desi
 - [Problem Set 4](./problem_set_4) - Libraries
 - [Problem Set 5](./problem_set_5) - Unit Tests
 - [Problem Set 6](./problem_set_6) - File I/O
-- Problem Set 7 - Regular Expressions
+- [Problem Set 7](./problem_set_7) - Regular Expressions
 - Problem Set 8 - Object-Oriented Programming
 
 ## Final Project
