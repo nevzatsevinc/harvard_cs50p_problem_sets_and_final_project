@@ -1,4 +1,4 @@
-# harvard_cs50p_problem_sets_and_final_project
+# Harvard CS50P Problem Sets And Final Project
 
 This repository contains my solutions to the problem sets and the final project of Harvard University's CS50’s Introduction to Programming with Python online course.
 
