@@ -1,6 +1,6 @@
 # BANKING SYSTEM APPLICATION
 
-#### Description: This project provides a simple Bank Account Management System where users can create and manage their bank accounts. It uses a `tkinter` based GUI for interaction and pickle for data persistence.
+This project provides a simple Bank Account Management System where users can create and manage their bank accounts. It uses a `tkinter` based GUI for interaction and pickle for data persistence.
 
 ## Features:
 
