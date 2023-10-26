@@ -1,0 +1,9 @@
+# requirements.txt
+
+# project.py
+pickle
+tkinter
+datetime
+
+# test_project.py
+pytest
