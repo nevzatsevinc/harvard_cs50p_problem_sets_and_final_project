@@ -17,10 +17,15 @@ Learn how to read and write code as well as how to test and “debug” it. Desi
 - [Problem Set 8](./problem_set_8) - Object-Oriented Programming
 
 ## Final Project
-- Final Project - (To Be Determined)
+- [Banking System Application](./final_project)
+  
+    This project provides a simple Bank Account Management System where users can create and manage their bank accounts. It uses a `tkinter` based GUI for interaction and pickle for data persistence.
 
 ## Contributing
 This repository is for educational purposes, no contributions are required.
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
+
+## CS50 Certificate
+![Alt text](CS50P.png "CS50 Certificate")
